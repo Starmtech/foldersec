@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*
 ###################################
 #         FolderSec               #
 #      langage : Python 2.7       # 
@@ -6,7 +7,6 @@
 #          version : 1.0          #
 #        auteur : devkort         #
 ###################################
-# -*- coding: utf-8 -*
 
 import hashlib
 import os.path
