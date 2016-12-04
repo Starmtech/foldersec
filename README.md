@@ -1,7 +1,9 @@
 # foldersec
 
-Script qui permet de sécuriser un dossier.
-Le lancer a l'aide de crontab pour permettre une verification régulière.
+Script qui permet de sécuriser un dossier de toute modification.
+
+Le lancer a l'aide de crontab pour permettre une verification régulièrement du dossier.
+
 commande:
 
 foldersec.py --update permet de mettre a jours le fichier qui contient les checksum des fichiers.
