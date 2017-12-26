@@ -105,7 +105,7 @@ try:
          update(arg)
       elif sys.argv[1] == "--check":
          check(arg, arg1)
-      elif sys.argv[1] == "--check":
+      elif sys.argv[1] == "--help":
          help()
       else:
         print("Mauvaise commande taper --help pour plus d'information")
